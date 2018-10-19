@@ -1,0 +1,621 @@
+<resources>
+    <string name="app_name">AR-Foods</string>
+   <string name="alexsusageintegr">2 onions medium\n
+2 tomatoes\n
+2 turkey pepper\n
+5 Green Pepper Peeled Green\n
+0.5 kg sausage</string>
+   <string name="alexsusagway">1 - bring a bowl and put a little oil after, cut the sausage to the rings and heat it well.\n
+
+2 - After extracting the sausage from the oil, leave it in a side dish then leave the oil as it is.\n
+3 - Put the onion cubes, tomatoes and green peppers in the oil until they take the golden color, and spoon them two tablespoons of tomato paste and set them on fire for 5 minutes.\n
+
+4 - Guest cut the sausage to the tomato and put the salt and black pepper and my heart well\n
+5. Scandinavian sausage is served hot with municipal bread or vinot and tahini salad, and can be served with white rice.</string>
+    <string name="beanwitheggway">Place the beans in the pan on the low heat, and then raise it until it becomes a rather thick mixture.\n
+        Add salt, lemon juice, chili pepper and a little water, then stir until ingredients are mixed together.\n
+        Add the olive oil to the beans, and let it warm a little with the beans.\n
+        Place the eggs in a side bowl, add salt and a little black pepper, skim the fork well, then pour it over the beans with a good stirring until the eggs are cooked well.\n
+        Cover the pan for three minutes until the eggs are fully maturing.\n
+        Serve the beans with hot scrambled eggs with fresh local bread, some of your family's favorite antipasti,
+        decorate the dish with finely chopped parsley, and a few finely chopped green onions, all of which can be changed
+        - according to family taste.</string>
+    <string name="beanwithegginteg">.250 grams of boiled beans\n
+. Half a teaspoon of salt\n
+. A pinch of lemon salt\n
+. A pinch of red pepper\n
+. olive oil\n
+. Four eggs.</string>
+    <string name="chickenrollinteg">Half a kilo of chopped chicken
+ 2 tbsp
+ an egg \n
+  Powder of garlic powder onion\n
+  Ginger powder lemon juice\n
+  Salt black pepper\n
+  Water for saliva\n
+Pepper black olive colors\n
+ Chopped parsley</string>
+    <string name="chickenrollway">Mix ingredients together\n
+* Individual components on aluminum foil in square and individual form with padding, and cover and cover well with aluminum foil\n
+* Roll the roll in the boiling water on the fire\n
+* Leave the roller to cool and then cut and feet\n
+* It can be preserved before cutting</string>
+    <string name="molokhiinteg">1 kg Molokhia leaves, green well washed and filtered\n
+6 garlic cloves, minced or finely chopped\n
+2 tbsp coriander, dry\n
+1 tablespoon margarine, or 2 tablespoons corn oil as desired\n
+4 cup chicken broth, or broth, as desired\n
+2 tbsp corn oil, as desired</string>
+    <string name="molokhiway">We prepare the meloukia after drying and we cut or cut it with a lathe until it is very soft, or even the kernels are poured until smooth.\n
+Put the sauce on any amount of fire and add the soup any broth until heated a little,
+        and then add the Mallokhia to the soup and turn them well to homogenize together.\n
+When the mulukhya starts to boil a little, prepare a pan of any frying pan and put the ghee,
+        garlic and coriander, and put them on fire and heat them together until the color of the dish is tilted to the golden.\n
+        Then add them to the melokhia and turn quickly and then put out the fire.</string>
+    <string name="koshriinteg">A cup of lentils with a meal\n
+A cup of rice\n
+A cup of noodles\n
+A large onion cut into small cubes\n
+Spoon of oil\n
+Spoon of salt</string>
+    <string name="koshriway">1. Prepare a pot and place the onions in plenty of oil until you get the golden color.\n
+2 - separate the onions from the oil, and put on a clean napkin to be purified of oil.\n
+3 - in the rest of the oil in the pot, national put noodles until you take the gold color.\n
+4 - guests of the white time to the noodles and continued to flipping with salt and cumin.\n
+5 - National lentil soaked for 10 minutes before starting the previous steps, then collect a liter of water for 20 minutes, and make sure of the near maturity.\n
+6 - Guest lentils to rice and noodles and put as much water as appropriate and leave them on low heat.\n
+7 - Wait until you confirm the maturity of the kushary completely.</string>
+    <string name="kosabashamelinteg">800 grams of chopped rings\n
+200 g chopped onions\n
+5 g garlic minced\n
+20 gm green mint\n
+50 g butter\n\n
+
+Beshlam\n
+Lethalben\n
+1 bag full of Knorr\n
+100 grams Rami cheese spread\n
+
+Fillers\n
+Minced meat\n
+400 g of chopped onions\n
+100 g of oil\n
+30 gm beef seasonings from Knorr\n
+Black pepper to taste\n
+100g Sausage Knorr\n
+Salt and Pepper</string>
+    <string name="kosabashamelway">1 - Put a liter of milk in a pot on the fire to boiling and add a bag of Bashmol of Knorr and leave on a quiet fire for two minutes and leave to cool
+
+To work the minced meat\n
+2 - Baihh onion and add the onion and stir well Add the chopped meat and stir well and dipped hanging sauce Knorr and meat seasonings of Knorr, salt and pepper and stir well for 10 minutes to maturity
+
+"To cook the sauce properly\n
+3 - Put the clove cut rings in a bowl of beef, onions and garlic and spin well and add mint and cinnamon, salt and pepper and fluctuation only half only and put in a refinery to get out of excess water\n
+4 - then put in a bowl of chopped meat with a spoon and a little of the Bashmil\n
+5 - We bring the tajn and paint a little bit of the liver and then Balashmal
+The mixture is covered with balsamic and Roman cheese spread on the face and enters the oven until maturity and reaches the color of gold and hot</string>
+    <string name="torlimeatinteg">Kilo and half cubed meat\n
+200 grams of chopped onions\n
+200 g Cubic Islands\n
+200 grams of potato cubes\n
+200 grams of cube cubes\n
+200 grams green beans\n
+200 grams of green fruit\n
+800 grams of Canorr sauce\n
+100 g butter\n
+4 cubes of tender meat from Knorr\n
+100 g of oil\n
+salt and pepper as needed</string>
+    <string name="torlimeatway">1 - seasoning the herring salt and pepper in a bowl with a little of the butter and leave aside\n
+2 - Put the oil and add the onion and stir well until it drips and add a sauce Knor on fire to boiling\n
+3 - Add all vegetables and cubes of meat broth from Knorr and cubes of fresh meat until boiling for 5 minutes\n
+4 - then placed in a casserole and covered with aluminum for 30 minutes\n
+5 - Lift the aluminum until it takes a golden wok and made hot with rice</string>
+    <string name="gmbrehameinteg">Half a kilogram of shrimps, cleanser and pans (2 cups)\n
+2 onion, sliced\n
+2 tomatoes, peeled and cut into thin slices\n
+Spoon of Knorr Chicken Spoon Powder\n
+Half a teaspoon of salt\n
+Half a teaspoon of black pepper\n
+3 chili pepper, circles clip
+Half a cup of oil\n
+Half a teaspoon of sugar</string>
+    <string name="gmbrehameway">- Rinse the shrimp and clean.\n
+- Fry onions in oil and stir until golden color.\n
+- Cook the tomatoes and stir, add the salt, and powder canor chicken powder, black pepper and chili.\n
+- Leaves on fire until thickened and darker. Add the shrimp and stir, add sugar and boil for 30 minutes until thickened. Serve hot.</string>
+    <string name="bsarainteg">Kilo of peeled beans\n
+200 grams of dry Mallochia.\n
+5 g garlic minced\n
+100 g olive oil\n
+4 grated vegetable cube of Knorr\n
+5 grams of cumin.\n
+50 g of parsley finely chopped.\n
+20 g of coriander leaves.\n
+200 g of onion clip.\n
+200 g of water</string>
+    <string name="besaraway">1 - Wash the beans well and soak in water for two hours and then put in a bowl with water and cubes of broth vegetables from Knorr on fire and is completed\n
+2 - Grind in an electric mixer with a little water as needed (to keep the mixture somewhat strong), and then add to the Mallochia, and continue cooking until all mature.\n
+3 - Heat the oil in a pot on fire and fry the garlic, onions and coriander, and sprinkle with salt and cumin and then add to the mix of beans.
+Serve hot</string>
+    <string name="khrshofinteg">1/2 kilo of boiled artichoke\n
+2 cups fresh spinach\n
+1 onion large size, sliced ​​slice\n
+2 garlic cloves minced\n
+1/2 teaspoon lemon juice\n
+1 Cinnamon Vegetable Soup Cube\n
+1/2 tablespoon flour\n
+2 tbsp butter\n
+1/4 cup cooked cream\n
+1 cup milk\n
+1/2 cup of grated mozzarella cheese\n
+1 teaspoon black pepper\n
+Salt, to taste</string>
+    <string name="khrshofway">Artichoke pieces are boiled into halves and kept aside.\n
+· In a frying pan, melt a tablespoon of butter and sauté the onion for a few minutes. \n
+        Add the spinach and lemon juice and stir with the onions on medium heat until the spinach melts. Saves by.\n
+In a saucepan, melt a spoon of butter and stir with flour and garlic until the mixture is yolk.\n
+        Then add the Canor vegetable cumin cube with milk and whisk until the mixture thickens slightly.\n
+Add the cream and season the mixture with salt and black pepper.\n
+In an oven tray, ground artichoke and spinach mixture, pour the mixture over it and cover with mozzarella cheese.\n
+Bake in the oven for 20 minutes until golden.
+Hot offer.</string>
+    <string name="negrscointeg">Kilo and a half macaroni bar or spaghetti\n
+One and a half kilos of chicks and a piece of very high or chopped\n
+400 g of chopped onions\n
+20 g garlic minced\n
+100 g mushrooms\n
+6 Cannor Chicken Soup Cube\n
+200 grams of oil and oil\n
+5 grams nutmeg\n
+
+
+Beshlam\n\n
+Liter milk\n
+Bag by Shamal Knorr\n
+500 grams Parmesan cheese spread or Romani</string>
+    <string name="negrscoway">Bechamel\n
+1 - Put the milk in the pot on fire to boiling and add a bag of Bashmal Knor and turn on the fire for a quiet 4 minutes and leave aside to cool
+
+Chicks\n
+2 - Taste on the fire add the onion and onion and garlic stir well Add the mushrooms and stir and add the chicks and stir and broth Chicken Knorr and turn everyone on a quiet fire for 5 minutes and leave aside.
+To roast macaroni\n
+1 - water on the fire boil add salt add noodles Climb 3/4 only and well filtered
+</string>
+    <string name="chickenballinteg">Kilo and half chicken breasts, minced\n
+Gram Spices of Knorr\n
+5 eggs beaten and seasoned with salt and pepper\n
+10 grams Picking Powder\n
+150 grams of toast\n
+5 g white pepper\n
+As desired by salt\n
+5 grams paprika\n
+10 slices of toast, fresh and finely chopped\n
+50 g egg whites\n
+5 g garlic, mashed</string>
+    <string name="chickenballway">1 - Mix chicken with eggs, chopped bread crumbs, pepper, salt and paprika seasoning chicks of Knorr and garlic well until the paste\n
+2. Prepare small balls of medium size mix\n
+3 - Dip the balls in egg white and then in the chopped bread\n
+4 - Reduce balls in hot oil until it becomes golden and then hot</string>
+    <string name="babaganoginteg">2 large eggplant\n
+1/2 finely ground sweet red pepper\n
+2 cloves of crushed garlic\n
+1/4 finely chopped hot pepper\n
+2 lemon juice\n
+1/4 cup water\n
+1/4 cup tahini\n
+2 tbsp olive oil\n
+1 tbsp salt</string>
+    <string name="babaganougway">Wash the eggplant and deep holes in the knife with eggplant from the outside to the inside, grind the eggplant until fully cooked and become very tender.\n
+Remove the eggplant from the black crust and set aside, prepare the sauce with food, place the tahini, lemon juice, olive oil, salt and water and mix well.\n
+Add the garlic, sweet and hot turkey and mix well. Add the grilled pudding and mix until the mixture is mixed.</string>
+    <string name="floursaladinteg">Text of a cup of flour\n
+2 cloves of garlic\n
+salt\n\n
+Hot sauce\n
+3 tablespoons vinegar\n
+Lemon juice\n
+3 tablespoons of yogurt\n
+A cup and a watercolor</string>
+    <string name="floursaladway">Put the flour in a plate of gouit, boil the water and then fast quickly and it is bigly on the tahini and my heart with a fork quickly, as far as the fish to the sweetness, he gave them garlic, mashed, yogurt,
+        vinegar and the optimal salt and chop according to your taste</string>
+    <string name="potatosaladinteg">Half a kilo of small peeled potatoes\n
+A cup of milk\n
+Half a cup of sesame paste\n
+Two lemons\n
+2 cloves of garlic\n
+Half cup of water\n
+Teaspoon salt</string>
+    <string name="potatosaladway">Put the potatoes in salted water, then cut them. \n
+        Put the potatoes with the rest of the ingredients in the electric mixer until they are crushed.\n
+        Put the mambal in the refrigerator for 10 minutes and then put them on.</string>
+    <string name="hmoussaladinteg">2 cups chickpeas\n
+400 g cucumber cubes section\n
+400 grams of cherry tomatoes chopped half\n
+Medium onion chopped or sliced ​​as desired\n
+Green peppers cut\n
+300 g mozzarella cheese cubes\n
+A cup of freshly sliced ​​basil leaves\n\n
+    ingredients of sauce:
+2 teaspoons balsamic vinegar\n
+2 teaspoons honey\n
+2 tablespoons olive oil\n
+Tablespoon lemon juice\n
+Salt and Pepper</string>
+    <string name="homussaladway">Stir chickpeas until tender and may take an average of 15 minutes\n
+- In a deep bowl mix the chopped vegetables with chickpeas and cheese\n
+- Mix the ingredients of the sauce together in a small bowl and cook well\n
+- Add the sauce to the Authority before it is presented immediately and their hearts well</string>
+    <string name="collslosaladinteg">Cubans of green or red cabbage are finely chopped\n
+. Two large islands, where they are peeled and sprayed smoothly\n
+. Six tablespoons of regular mayonnaise, can be increased as desired\n
+. Six tablespoons of coarse white sugar. A glass of yogurt\n
+. 2 teaspoons salt, or more as desired\n
+. A teaspoon of black pepper\n
+. Tablespoon of white vinegar or apple vinegar, and if vinegar is not available, lemon juice can be used.
+</string>
+    <string name="coolsloway">It is preferable to use a food processor to crush the cabbage,
+        but if it is not available, be careful to cut it very gently.\n
+        Add the carrots to the soft cabbage,
+        mix well with it.\n
+        Add the amount of sugar to the mixture of vegetables, and move well until the sugar mixed with cabbage and carrots,
+        where it will notice the exit of water from vegetables as a result of sugar.\n
+        Move the vegetables to the strainer,
+        and leave them for at least an hour, to make sure the vegetables are filtered out of the entire water.\n
+        Move the vegetables to a deep, well-sized bowl.\n
+        Mix mayonnaise, yogurt, salt and pepper in addition to vinegar,
+        in a suitable bowl.\n
+        Pour the Mayonnaise mixture into the vegetables and stir well,
+        until all the ingredients are mixed together.\n
+        Cover the container with nylon and place in the refrigerator for at least 30 minutes before use.
+</string>
+    <string name="taboulasaladinteg">2 parsley bunch, finely chopped\n
+1/4 mint bouillon, finely chopped\n
+4 tomatoes, large size chopped\n
+1 medium onion, finely chopped\n
+3 tablespoons soft, washed broccoli\n
+Juice 2 sour lemon\n\n
+Two tablespoons of pomegranate molasses
+   1 cup of olive oil\n
+1/4 teaspoon soft cinnamon\n
+Pour according to desire\n
+Salt, to taste</string>
+    <string name="taboulasaladway">
+        - Soak the bulgur in sour juice and leave on the side, rub the chopped onion with diced garlic and soft cinnamon then leave on the side.\n
+
+- In a deep bowl add both parsley, mint, tomato, onion, and bulgur and mix the ingredients of the salad.\n
+
+Add the pomegranate and salt, then mix the tiboule and salt to taste, adding the acid juice as desired.\n
+
+- Add olive oil to the tabbouleh and offer immediately.\n
+
+Serve with lettuce leaves and cabbage.
+    </string>
+    <string name="piesaladinteg">Large grain of eggplant\n
+. Two large potatoes\n
+. A bead of sweet green peppers\n
+. Two pieces of squash\n
+. Five leaves of lettuce\n
+. A cup of boiled chickpeas\n
+. Teaspoon of cumin\n
+. A quarter cup of finely chopped parsley\n
+. A large loaf of plain bread\n
+. Four tablespoons of lemon juice\n
+. Vegetable oil (corn oil, sunflower oil) is abundant for frying\n
+. Salt, to taste. Tahini sauce.\n\n
+    Ingredients of tahini sauce:\n
+  Half a cup of tahini\n
+. Four cloves of garlic, mashed\n
+. A glass of yogurt\n
+. Two tablespoons of vinegar</string>
+    <string name="piesaladway">Preparation of tahini sauce:\n
+ We put in a deep bowl all of the tahini, yogurt, garlic, vinegar\n
+. Beat the ingredients using a manual handkerchief for 2 minutes, leaving the pot aside until it is needed\n
+. Preparation of pans salad:\n
+ Wash both zucchini, eggplant, potatoes, sweet green peppers, lettuce leaves, and peel both eggplant and potatoes.\n
+        Cut eggplant,
+        potatoes, squash, bread into small cubes, and cut lettuce and sweet green peppers into longitudinal strips.\n
+        Sprinkle the eggplant cubes with a little salt and leave them for 15 minutes to get rid of the bitter taste in it,
+        then wash it and half the well.\n
+        Sprinkle the vegetable oil in a deep skillet and place on high heat for a few minutes until the oil is well heated.\n
+        Take the potatoes, and then the bread, zucchini and eggplant, respectively, and each time we take out some vegetable oil and put it on drying paper to get rid of the oil stuck to it.\n
+        Add eggplant, bread, zucchini, potatoes, chickpeas, lemon juice, lettuce, parsley, sweet green peppers,
+        cumin, salt and stir them together with a tablespoon.\n
+        Pour the tahini sauce over the bowl containing the pans.\n
+        Put the salad in a serving dish, sprinkle the dish with lemon slices, and parsley sticks.</string>
+    <string name="sezarsaladinteg">2 chicken breast cubes section\n
+1 brown spaghetti baguette (Penne boiled)\n
+1 cup mayonnaise 1/3 cup sour cream\n
+1 clove of crushed garlic\n
+1 teaspoon Worcestershire sauce\n
+1 small lettuce head, washed and finely sliced 1 1/2 cup cherry tomatoes cut in half\n
+4 green onions, sliced 1/2 cups sliced Parmesan cheese\n
+1/2 cup toast toast bread cubes and toasted\n
+1 tbsp olive oil, salt and pepper as desired</string>
+    <string name="sezarsaladway">To prepare the salad: In a bowl, mix the mayonnaise with sour cream, Worcester sauce, garlic and black pepper.\n
+2 - add noodles on the spice and stir to mix the pasta pasta with spices\n
+3-Enter the pasta noodle mix for 30 minutes\n
+4 - In the frying pan on the fire we protect the olive oil and add the chicken and season with salt and pepper\n
+5 - stir the chicken on the fire to simmer and brown from all sides for 7 minutes and then raise the chicken from the frying pan\n
+6. In a bowl, mix the mixed pasta with the lettuce, tomatoes, green onions and chicken\n
+7 - Add the toast and stir to mix all the ingredients together\n
+8. Add the cheese and stir well\n
+9 - Progress and health and wellness</string>
+    <string name="egglphantinteg">
+        Medium eggplant egg\n
+Oil for the minority\n
+garlic\n
+Salt, to taste\n
+Lemons\n
+Green Pepper\n
+Red pepper\n
+latency
+    </string>
+    <string name="egglphantway">
+        - Cut the eggplant either circles or cubes as desired\n
+- We get a little salt and let it get rid of excess water\n
+- Wash it and then pour it in the oil and remove it on dry paper to remove the excess oil\n
+- We prepare the seasoning by cutting the pepper and garlic and put them in the cup with cumin and salt\n
+- Operate the cup until Nfrm ingredients we get out of the cup and squeeze the lemon\n
+- Seasoned eggplant mix and served with different dishes
+    </string>
+    <string name="watercressinteg">
+        Two packs of watercress\n
+. Two medium sized tomatoes\n
+. A small slice of onion\n
+. Two slices of option\n
+. Half a cup of walnuts\n
+. half cup of olive oil\n
+. Three tablespoons of white vinegar\n
+. Three tablespoons of lemon juice\n
+. Tablespoon of pomegranate molasses\n
+. Half a teaspoon of salt\n
+. quarter tea spoon of black Peper\n
+. Half teaspoon of sumac. Half a teaspoon of chop.
+    </string>
+    <string name="watercressway">
+        Wash the watercress, and with a towel moistened with water and put it in the refrigerator until he recovers his glasses.\n
+        Place the watercress in the serving dish.\n
+        Place onion slices, tomatoes and cucumber over watercress.\n
+        The nut is placed above this mixture.\n
+        To prepare the salad mix, put the oil, lemon juice, pomegranate, white vinegar, salt, salt, and sumac in Bartman, and let it cool until the mixture is ready.\n
+        As well as the representatives of the Authority.
+
+    </string>
+    <string name="pastatunainteg">Five hundred grams of pasta, preferably from good pasta.\n
+  A full-size tuna tray.\n
+  Medium onion.\n
+  Three grains of tomatoes.\n
+  Colorful turkey pepper.\n
+        A clove of garlic. Two cups of sweet corn. Half a cup of black olives
+. Four tablespoons of mayonnaise.\n
+        A tablespoon of ketchup. \n
+        A teaspoon of recovered sauce\n
+. A glass of yogurt.\n
+        A pinch of salt.\n
+        A pinch of black pepper.</string>
+    <string name="pastatunaway">
+        Cook the pasta with a pot filled with water on the fire, add a little salt and oil. When the water boils well, add the pasta, and wait until it is well cooked.\n
+        Sprinkle the peppers for 10 minutes, and their hearts on all sides. When they are well cooked, cut them into thin slices.\n
+        Cut the onion into slices, and the tomatoes into cubes.\n
+        Stir well boiled pasta, then mix tomatoes, onions and pepper with pasta, add corn and olives, and mix.\n
+        Bring the tuna box, well-oiled, and then add to the previous mixture, and gently cauliflower.\n
+        Cut the garlic, stir in the oil on the fire in a pan, and then bring a bowl, and my heart with ketchup, yogurt, mayonnaise and garlic as well.\n
+        Add the whole ingredients to each other, and put the appropriate salt and black pepper. \n
+        Put the mixture in the refrigerator for some time.\n
+        Put it in the serving dish, and give it to your family.\n
+        You can add parsley or basil on the face; to decorate the dish,
+        give it a delicious flavor.
+    </string>
+    <string name="tunabtatasinteg">
+        * Tuna (2 pack).\n
+* Olives cut and uncooked (1/2 cup).\n
+* Potatoes cut into cubes and fried (3 tablets).\n
+* Parsley ( bouquet).\n
+* Coriander ( bouquet).\n
+* One onion cut into wings.\n
+* One pack of filtered onions (preferably fresh onions).\n
+* Stuffed or boiled mushroom.\n
+* Mayonnaise (cup).\n
+* Chopped (2 tbsp).\n
+* 1 large tomatoes cut.\n
+* black pepper.\n
+* Salt, to taste).
+    </string>
+    <string name="tunabtatsway">
+        1. Rub onion with vinegar and salt in a side bowl.\n
+2. Filter the tuna from the oil.\n
+3. Melt the tuna well in a deep bowl.\n
+4. Add the onion, chopped with vinegar, salt and all the ingredients to the tuna except for the tomatoes.\n
+5. My heart plug well.\n
+6. Add salt as desired.\n
+7. Place the dish in the refrigerator until the date of submission.\n
+8. Zinni dish with tomato jujug at presentation.\n
+9. My feet are cool.
+    </string>
+    <string name="greenoninonsoupinte">
+        1 cup yellow lentils, washed and drained\n
+1 cup chickpeas, washed and drained\n
+1  liters of water\n
+1 Islands, peeled and cut into cubes\n
+2 tbsp fresh ginger, peeled and chopped\n
+2 tbsp Curry, Madras, you can use more hot types\n
+2 tbsp olive oil, or butter\n
+6 green onions, leeks, thin slices do not get rid of the green part
+ cup small raisins\n
+ cup tomato sauce\n
+1 pack of almond milk\n
+Salt to taste\n
+1 bunch coriander, finely chopped
+    </string>
+    <string name="greenonionsoupway">
+        Add hummus, lentils and the amount of ginger with carrots in the amount of water in a covered pot until the chickpeas are cooked.\n
+Meanwhile, roast the curry powder over the fire until it smelled. Then lift it directly from the fire so as not to burn.\n
+Heat the oil or butter in a skillet. Add three quarters of the onion with the remaining ginger, raisins and hearts on the fire for 2 minutes, add the tomato sauce and continue stirring for 2 minutes.\n
+Add the roasted curry to the onion mixture and my heart well.\n
+Add the onion mixture to the soup with salt and almond milk.\n
+Leave the pot without cover for 20 minutes or more depending on the preferred texture of the soup, increasing its density as cooking continues.
+Garnish with coriander and green onions
+    </string>
+    <string name="shofansoupinteg">
+        1/2 white rice\n
+2 chicken breast\n
+1/4 oatmeal\n
+5 Water\n
+Salt and black pepper to taste\n
+3 Clove Love\n
+1 lemon citric acid
+    </string>
+    <string name="shofansoupway">
+        1 - Cut the chicken breast into small cubes, put it in a pot of fire with two cups of water and when boiling, add the beads of cloves
+And let him boil a little.\n
+2. When the chicken is cooked, cut the onion and add it with the chicken, add the salt as desired.\n
+3 - Wash and spread rice for 5 minutes and then add to the chicken with the rest of the water, cover the pot until it is cooked and after 10 minutes I lay
+Fire, and mix it with the handbrake quickly until all the ingredients are homogenized.\n
+4 - restore the pot on fire, if thick or thick mixture you can add water to ease it then add oats, parsley and lemon and the rest
+Ingredients and leave on fire until cooked ..
+    </string>
+    <string name="ryhansoupinteg">
+        1 medium cabbage \n
+1 tbsp minced basil \n
+4 tomatoes\n
+2 hot green peppers\n
+6 onions, preferably green onions\n
+6 medium garlic cloves\n
+2 tbsp tomato juice\n
+2 cube chicken broth\n
+Chopsticks according to desire\n
+1/4 teaspoon salt
+    </string>
+    <string name="ryhansoupway">
+        1. Bring all the ingredients in the water until they are well cooked, then leave them to cool.\n
+2. Put the boiled vegetables in the electric mixer and stir well.\n
+3. Place the mashed vegetables in a saucepan and add the chicken broth as desired. Leave the soup on the fire to boil for 10 minutes.
+minutes.
+    </string>
+    <string name="lsanasforinteg">
+        1/2 cup spaghetti Spaghetti boiled \n
+1 cup onions, small cubes \n
+4 garlic cloves minced \n
+1/2 cup zucchini cubes section \n
+1/2 cup grilled eggplant
+1/4 cup freshly sliced mushrooms
+1/4 cup chopped parsley
+1 cup colored peppers cut into cubes
+1 tsp olive oil
+1 teaspoon chopped hot pepper
+Salt and black pepper
+1/4 cup soy sauce
+    </string>
+    <string name="lsanasforway">
+        1 - Add the oil and add the onion, garlic, pepper protector, mushrooms, pepper colors and zucchini in a non - stick hot pan and then
+Mix a bit. \n
+2 - Add eggplant, soy sauce, salt, pepper, leave boiling, add the tongue of the boiled bird, add the parsley and its heart
+Then put it hot on your table.
+
+    </string>
+    <string name="GarlicSoupinteg">
+        5 cloves of crushed garlic\n
+1 tbsp tomato sauce\n
+1 cube chicken broth\n
+Salt and pepper\n
+2 1/2 cup water
+    </string>
+    <string name="garlicsoupway">
+        1. In a pot of fire, put the water and leave it until it boils.\n
+2. Add the gravy cube and add the garlic, salt and spices.\n
+3. When garlic smells, add the sauce and leave it slightly on the fire and feet.\n
+    </string>
+    <string name="basbousaeshtainteg">
+        A glass of sugar.\n
+A cup of semolina.\n
+  A cup of flour.\n
+  A cup of yoghurt.\n
+A glass of oil.\n
+  A glass of warm water.\n
+  A cup of coconut.\n Ingredients of cream:\n
+  Three cups of milk.\n
+  Four tablespoons of starch.\n
+  Sugar according to desire.
+    </string>
+    <string name="basbosaeshtaway">
+        Mix the ingredients of the cream in a saucepan.\n
+  We move the ingredients to homogenize and weigh together.\n
+  Remove the pot from the fire, then add the water.\n
+  Mix the ingredients of the onion.\n
+  Add the Pyrex tray with oil.\n
+  We put half of the ingredients in Chinese.\n
+Put the cream, then the other half of the pepsosa.\n
+  Place the Pyrex tray in the oven at 180 ° C for about one hour until it turns brown from the top.\n
+  We leave the Chinese so cool, then adorn.\n
+
+    </string>
+    <string name="bsbosabl2shtainteg">
+A glass of sugar.\n
+  A cup of semolina.\n
+  A cup of flour.\n
+A cup of yoghurt.\n
+A glass of oil.\n
+A glass of warm water.\n
+  A cup of coconut\n\n
+        Ingredients of cream:\n
+  Three cups of milk.\n
+  Four tablespoons of starch.\n
+  Sugar according to desire
+    </string>
+    <string name="bsbosabl2shtaway">
+        Mix the ingredients of the cream in a saucepan.\n
+  We move the ingredients to homogenize and weigh together.\n
+  Remove the pot from the fire, then add the water.\n
+  Mix the ingredients of the onion.\n
+Add the Pyrex tray with oil.\n
+  We put half of the ingredients in Chinese.\n
+  Put the cream, then the other half of the pepsosa.\n
+Place the Pyrex tray in the oven at 180 ° C for about one hour until it turns brown from the top.\n
+  We leave the Chinese so cool, then adorn.
+    </string>
+    <string name="ricemilkinteg">
+        Two cups of rice.\n
+Four liters of milk.\n
+  Four cups of sugar.
+    </string>
+    <string name="ricemilkway">
+        Put the milk in a saucepan. Wait until the milk boils.\n
+  Wash rice, and drain well of water. Add the rice to the milk, then add the sugar.\n
+  Wait until the mixture becomes thick.\n
+  Remove the pot from the fire. Pour the rice in milk in suitable dishes. Garnish face with cinnamon and coconut.
+    </string>
+    <string name="blozamhlbeainteg">
+        Four glasses of orange juice.\n
+  Two cups of sugar.\n
+  Eight spoons of starch.\n
+  Two tablespoons of cast water. Kg of milk.
+
+    </string>
+    <string name="blozaway">
+        Place orange juice with a starch spoon in a saucepan on the fire.\n
+        We move the components so that they are in harmony with each other. \n
+        Add a glass of sugar, a teaspoon of cast water, and move the mixture until it is firm.\n
+        Pour the layer of foam into the cups. Put the milk and starch in a pot on the fire. \n
+        Add the sugar, move the ingredients until they hold together, then add the water. Pour the mixture over the eggs.\n
+        Put the ornaments in the fridge.
+
+    </string>
+    <string name="bsbosaoreinteg">
+        Four eggs.\n
+  Cup only a quarter of sugar.\n
+  Cup only a quarter of the oil. A little flannel.\n
+  A cup of semolina. A teaspoon of baking powder.\n
+  Five beads of hand-broken tea biscuits. Eight beads of hand-broken Oreo.\n
+  Small packet of Pakistani vermicelli. Local and condensed milk for watering and decoration.
+    </string>
+    <string name="bsbosaoreoway">
+        Beat eggs, then add sugar.\n
+        Mix the sugar with the milk well, then add the flannel and oil, and finally add the semolina and baking powder.\n
+        Add the crushed biscuits and Oreo to the basbous mixture. Add the cake tray with flour or oil.\n
+        Pour the mixture into Chinese.\n
+        Break the noodles and put them on the face. \n
+        Place the Chinese in the oven for thirty minutes at a temperature of 180 ° C until it turns red. We take the Chinese out of the oven and pour the local milk directly.
+
+    </string>
+</resources>
