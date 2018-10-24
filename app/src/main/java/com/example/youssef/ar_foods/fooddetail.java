@@ -186,6 +186,177 @@ public class fooddetail extends AppCompatActivity {
                 ingredients.setText(getResources().getString(R.string.blozamhlbeainteg));
                 break;
             }
+            case 911:{
+                way.setText(getResources().getString(R.string.kbsaway));
+                ingredients.setText(getResources().getString(R.string.kbsal7mainteg));
+                break;
+            }
+            case 912:{
+                way.setText(getResources().getString(R.string.yellowriceway));
+                ingredients.setText(getResources().getString(R.string.yellowriceinteg));
+                break;
+            }
+            case 913:{
+                way.setText(getResources().getString(R.string.hotsalsaway));
+                ingredients.setText(getResources().getString(R.string.hotsalsainteg));
+                break;
+            }
+            case 914:{
+                way.setText(getResources().getString(R.string.mandychicway));
+                ingredients.setText(getResources().getString(R.string.mandychiinteg));
+                break;
+            }
+            case 915:{
+                way.setText(getResources().getString(R.string.tandorchickenway));
+                ingredients.setText(getResources().getString(R.string.tandorichickeninteg));
+                break;
+            }
+            case 916:{
+                way.setText(getResources().getString(R.string.shaksokaway));
+                ingredients.setText(getResources().getString(R.string.shakshokainteg));
+                break;
+            }
+            case 101:{
+                way.setText(getResources().getString(R.string.romansaladway));
+                ingredients.setText(getResources().getString(R.string.romansaladinteg));
+                break;
+            }
+            case 102:{
+                way.setText(getResources().getString(R.string.flowersaladway));
+                ingredients.setText(getResources().getString(R.string.flowersaladinteg));
+                break;
+            }
+            case 103:{
+                way.setText(getResources().getString(R.string.goatsaladway));
+                ingredients.setText(getResources().getString(R.string.goatsaladinteg));
+                break;
+            }
+            case 104:{
+                way.setText(getResources().getString(R.string.ftoshway));
+                ingredients.setText(getResources().getString(R.string.ftoshinteg));
+                break;
+            }
+            case 105:{
+                way.setText(getResources().getString(R.string.msasatway));
+                ingredients.setText(getResources().getString(R.string.msasatinteg));
+                break;
+            }
+            case 106:{
+                way.setText(getResources().getString(R.string.shamndrway));
+                ingredients.setText(getResources().getString(R.string.shamndrinteg));
+                break;
+            }
+            case 931:{
+                way.setText(getResources().getString(R.string.khrshofmilksoupway));
+                ingredients.setText(getResources().getString(R.string.khrshofmilksoupinteg));
+                break;
+            }
+
+            case 932:{
+                way.setText(getResources().getString(R.string.khodartmrway));
+                ingredients.setText(getResources().getString(R.string.khodartmrinteg));
+                break;
+            }
+
+            case 933:{
+                way.setText(getResources().getString(R.string.ftrcreamyway));
+                ingredients.setText(getResources().getString(R.string.ftrcreamyinteg));
+                break;
+            }
+
+            case 934:{
+                way.setText(getResources().getString(R.string.sbanlsan5way));
+                ingredients.setText(getResources().getString(R.string.sbn5lsaninteg));
+                break;
+            }
+
+            case 935:{
+                way.setText(getResources().getString(R.string.ryhansoupsaudiway));
+                ingredients.setText(getResources().getString(R.string.ryhansoupsauidainteg));
+                break;
+            }
+
+            case 511:{
+                way.setText(getResources().getString(R.string.shawrmabreadway));
+                ingredients.setText(getResources().getString(R.string.Shawarmabreadinteg));
+                break;
+            }
+            case 512:{
+                way.setText(getResources().getString(R.string.kuftahalabiway));
+                ingredients.setText(getResources().getString(R.string.KuftaHalabiinteg));
+                break;
+            }
+            case 513:{
+                way.setText(getResources().getString(R.string.perfectmkdosway));
+                ingredients.setText(getResources().getString(R.string.perfectmkdosinteg));
+                break;
+            }
+            case 514:{
+                way.setText(getResources().getString(R.string.burnfingerway));
+                ingredients.setText(getResources().getString(R.string.Burnfingerinteg));
+                break;
+            }
+            case 515:{
+                way.setText(getResources().getString(R.string.mainchickenshawrmamainway));
+                ingredients.setText(getResources().getString(R.string.mainchickenshawrmainteg));
+                break;
+            }
+            case 516:{
+                way.setText(getResources().getString(R.string.egablbnaway));
+                ingredients.setText(getResources().getString(R.string.egablbnainteg));
+                break;
+            }
+            case 517:{
+                way.setText(getResources().getString(R.string.egablbnaway));
+                ingredients.setText(getResources().getString(R.string.egablbnainteg));
+                break;
+            }
+            case 518:{
+                way.setText(getResources().getString(R.string.egablbnaway));
+                ingredients.setText(getResources().getString(R.string.egablbnainteg));
+                break;
+            }
+            case 519:{
+                way.setText(getResources().getString(R.string.seneadgagway));
+                ingredients.setText(getResources().getString(R.string.seneadgaginteg));
+                break;
+            }
+            case 521:{
+                way.setText(getResources().getString(R.string.taboulakenonasaldway));
+                ingredients.setText(getResources().getString(R.string.taboulakenonasaladinteg));
+                break;
+            }
+            case 522:{
+                way.setText(getResources().getString(R.string.tmatmzetway));
+                ingredients.setText(getResources().getString(R.string.tmatmbzetinteg));
+                break;
+            }
+            case 523:{
+                way.setText(getResources().getString(R.string.kratelbnaway));
+                ingredients.setText(getResources().getString(R.string.kratelbnanteg));
+                break;
+            }
+            case 524:{
+                way.setText(getResources().getString(R.string.foulb2donsway));
+                ingredients.setText(getResources().getString(R.string.foulb2donsinteg));
+                break;
+            }
+            case 525:{
+                way.setText(getResources().getString(R.string.btatazbadyway));
+                ingredients.setText(getResources().getString(R.string.btatazbadyinteg));
+                break;
+            }
+            case 526:{
+                    way.setText(getResources().getString(R.string.shamndrlbnsaladaway));
+                    ingredients.setText(getResources().getString(R.string.shamndrlbnasaladinteg));
+                    break;
+            }
+            case 527:{
+                way.setText(getResources().getString(R.string.btatalbnasaladway));
+                ingredients.setText(getResources().getString(R.string.btatalbnasaladinteg));
+                break;
+            }
+
 
 
 

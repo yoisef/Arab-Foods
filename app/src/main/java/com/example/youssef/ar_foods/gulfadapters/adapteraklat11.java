@@ -79,14 +79,40 @@ public class adapteraklat11 extends RecyclerView.Adapter<adapteraklat11.viewhold
                 {
                     case 0:{
                         Intent intent=new Intent(context,fooddetail.class);
-                        context.startActivity(new Intent(context,foodsnames.class));
+                        intent.putExtra("content",931);
+                        context.startActivity(intent);
                         break;
                     }
 
                     case 1:{
-                        context.startActivity(new Intent(context,foodsnames.class));
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",932);
+                        context.startActivity(intent);
                         break;
-
+                    }
+                    case 2:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",933);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 3:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",934);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 4:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",935);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 5:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",936);
+                        context.startActivity(intent);
+                        break;
                     }
                 }
 

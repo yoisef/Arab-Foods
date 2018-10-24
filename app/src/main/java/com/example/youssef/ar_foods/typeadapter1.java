@@ -77,10 +77,14 @@ public class typeadapter1 extends RecyclerView.Adapter<typeadapter1.viewholder> 
                         Intent mintent=new Intent(context,foodsnames.class);
                         mintent.putExtra("content",22);
                         context.startActivity(mintent);
-                        context.startActivity(mintent);
-
                         break;
 
+                    }
+                    case 2:{
+                        Intent myintent=new Intent(context,foodsnames.class);
+                        myintent.putExtra("content",23);
+                        context.startActivity(myintent);
+                        break;
                     }
                 }
             }

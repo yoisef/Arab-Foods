@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".foodsnames" />
-        <activity android:name=".fooddetail"></activity>
+        <activity android:name=".fooddetail" />
+        <activity android:name=".favouritactivity" />
     </application>
 
 </manifest>

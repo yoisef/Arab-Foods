@@ -79,17 +79,58 @@ public class adapteraklat5 extends RecyclerView.Adapter<adapteraklat5.viewholder
                 {
                     case 0:{
                         Intent intent=new Intent(context,fooddetail.class);
-                        intent.putExtra("content",31);
+                        intent.putExtra("content",511);
                         context.startActivity(intent);
                         break;
                     }
 
                     case 1:{
                         Intent intent=new Intent(context,fooddetail.class);
-                        intent.putExtra("content",32);
+                        intent.putExtra("content",512);
                         context.startActivity(intent);
                         break;
-
+                    }
+                    case 2:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",513);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 3:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",514);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 4:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",515);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 5:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",516);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 6:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",517);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 7:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",518);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 8:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",519);
+                        context.startActivity(intent);
+                        break;
                     }
                 }
 

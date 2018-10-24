@@ -3,9 +3,11 @@ package com.example.youssef.ar_foods.egyptadapter;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
+import android.view.Display;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -19,6 +21,8 @@ import com.example.youssef.ar_foods.foodsnames;
 import com.example.youssef.ar_foods.foodtypes;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 
 public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
     Context context;
@@ -26,12 +30,17 @@ public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
 
 
     ArrayList<foodtypes> listtypes,main,side;
+
+
+
+    ArrayList<String> favourit;
     Activity activity;
 
-    public adapteraklat(Context con,ArrayList<foodtypes> myliste)
+    public adapteraklat(Activity con,ArrayList<foodtypes> myliste)
     {
         this.context=con;
         this.listtypes=myliste;
+        favourit=new ArrayList<>();
 
         main=new ArrayList<>();
         side=new ArrayList<>();
@@ -45,6 +54,13 @@ public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
 
 
 
+
+    }
+    public adapteraklat()
+    {
+
+        favourit=new ArrayList<>();
+        favourit=getFavourit();
 
     }
 
@@ -61,6 +77,23 @@ public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
     public void onBindViewHolder(@NonNull final adapteraklat.viewholder holder, int position) {
 
        // holder.imagetype.setImageDrawable(context.getResources().getDrawable(listtypes.get(position).getImageView()));
+        holder.favouritstar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                int i=holder.getAdapterPosition();
+                holder.favouritstar.setImageDrawable(context.getResources().getDrawable(R.drawable.favogolden));
+                favourit.add(holder.texttype.getText().toString());
+
+
+
+
+
+            }
+        });
+
+
+
+
         GlideApp
                 .with(context)
                 .load(listtypes.get(position).getImageView())
@@ -169,6 +202,10 @@ public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
 
     }
 
+    public ArrayList<String> getFavourit() {
+        return favourit;
+    }
+
     @Override
     public int getItemCount() {
         return listtypes.size();
@@ -176,7 +213,7 @@ public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
 
     class viewholder extends RecyclerView.ViewHolder{
 
-        ImageView imagetype;
+        ImageView imagetype,favouritstar;
         TextView texttype;
         CardView mycard;
 
@@ -186,6 +223,7 @@ public class adapteraklat extends RecyclerView.Adapter<adapteraklat.viewholder>{
             imagetype=itemView.findViewById(R.id.imgty);
             texttype=itemView.findViewById(R.id.textty);
             mycard=itemView.findViewById(R.id.cardtype);
+            favouritstar=itemView.findViewById(R.id.favourt);
 
         }
     }

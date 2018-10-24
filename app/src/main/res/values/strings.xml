@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">AR-Foods</string>
-   <string name="alexsusageintegr">2 onions medium\n
+    <string name="alexsusageintegr">2 onions medium\n
 2 tomatoes\n
 2 turkey pepper\n
 5 Green Pepper Peeled Green\n
 0.5 kg sausage</string>
-   <string name="alexsusagway">1 - bring a bowl and put a little oil after, cut the sausage to the rings and heat it well.\n
+    <string name="alexsusagway">1 - bring a bowl and put a little oil after, cut the sausage to the rings and heat it well.\n
 
 2 - After extracting the sausage from the oil, leave it in a side dish then leave the oil as it is.\n
 3 - Put the onion cubes, tomatoes and green peppers in the oil until they take the golden color, and spoon them two tablespoons of tomato paste and set them on fire for 5 minutes.\n
@@ -617,5 +617,672 @@ Four liters of milk.\n
         Break the noodles and put them on the face. \n
         Place the Chinese in the oven for thirty minutes at a temperature of 180 ° C until it turns red. We take the Chinese out of the oven and pour the local milk directly.
 
+    </string>
+    <string name="kbsal7mainteg">
+        1 kg lamb
+ 2 white onion, cut strips
+ 1 grain balls, finely chopped
+ 5 tablespoons butter\n
+ Salt, to taste
+ 1 cup tomato sauce
+ 2 hot green peppers\n
+ 1 Cinnamon sticks
+ 3 cloves of cloves
+ 1 tablespoon paprika, a chimney
+ 8 Hull Beans\n
+ 1 Lome
+1/2 teaspoon turmeric
+ Saffron Brush
+ 1/2 teaspoon black pepper, ground
+ 1 cup orange juice\n
+1/2 human orange peel
+ 2 cups US rice, drenched in lukewarm water for 30 minutes and drained\n
+ 8 cups meat broth
+ 5 cloves of garlic, crushed\n
+  cup nuts, pine nuts, cashew and toaster for decoration
+Dough sauce Ingredients: 1 tomato, peeled
+ 1 hot green pepper\n
+1/4 cup green coriander, minced
+ 2 cloves of garlic\n
+ 1 lemon juice, juice
+ Salt, to taste
+    </string>
+    <string name="kbsaway">
+        Heat the butter in a large saucepan until it becomes light brown.\n
+        Add the meat and brown well. \n
+        Add the onions. Shallots and fry until they become almost 5 light golden for 5 minutes. Add salt, garlic, green peppers and spices.\n
+Add the tomato sauce, saffron and orange juice and stir for 2 minutes, then add the broth of boiled meat and leave on fire for an hour and a half until the meat is cooked Add the orange spray Add the rice and leave on fire for 15 minutes or until it is cooked.\n
+Make an aluminum foil and put it in the middle of the rice. Place a piece of burning charcoal in the middle of the boat with a small piece of butter to make smoke with a lid for only 2 minutes.\n
+Pour the rice into the serving plate and the meat on the face and decorate with nuts and serve.
+    </string>
+    <string name="yellowriceinteg">
+        3 cups basmati rice\n
+4 cups and a half of water boiled chicken\n
+1 teaspoon "teaspoon" salt\n
+1 teaspoon "teaspoon" cinnamon\n
+1 teaspoon "tea spoon" Paprika\n
+1 teaspoon "tsp" spices\n
+1 tsp "tsp" Optional "chop"\n
+Half teaspoon "teaspoon" ground black pepper\n\n
+        Chicken mixture:
+1 kilo chicken\n
+One quarter cup of rose water\n
+1 large onion onion quarters\n
+2 cloves garlic mashed\n
+3 lobes love "Hill"\n
+3 Laurel paper\n
+2 cinnamon sticks\n
+2 tsp "teaspoon" salt\n
+1 teaspoon teaspoon saffron\n
+1 teaspoon "teaspoon" chopped ginger\n
+1 teaspoon "tsp" turmeric
+    </string>
+    <string name="yellowriceway">
+        Wash the chicken with plenty of water, and leave it in an aside.\n
+In a small cup, mix the saffron and rose water, and stir them for 5 minutes.\n
+Put the saffron mixture over the chicken, and place it on the inside and outside.\n
+In a large pot and on high heat, put a large amount of water and chicken, add onions, garlic, bay leaves, cinnamon, lettuce, ginger and turmeric, and leave on fire for an hour until the chicken is cooked.\n
+Remove the chicken from the soup, place it in a tray aside, and then half the soup.\n
+We start to prepare the rice. We wash the rice well, soak it for half an hour, then drain it from the water.\n
+In a large bowl and on high heat, put the soup until it boils.\n
+Put the rice in the bowl, add salt, black pepper, cinnamon, spices, paprika and saffron, and stir well until it starts to boil.\n
+Cover the rice bowl, then heat the fire, and leave for 40 minutes until cooked.\n
+At that time, put the chicken in a tray and place in a preheated oven until red.\n
+In a large, flat dish, place the rice and spread the chicken over it.\n
+We offer yellow rice with hot chicken with hot dukes sauce.
+
+    </string>
+    <string name="hotsalsainteg">
+        2 tomatoes\n
+2 hot pepper\n
+1 cup of ground pepper\n
+2 cloves of true garlic\n
+2 tbsp "tablespoon" olive oil\n
+1 tbsp "spoon" tomato sauce\n
+1 teaspoon "teaspoon" Chita\n
+Semi-lemon juice\n
+1 pack of parsley\n
+1 pack coriander green\n
+A quarter cup of water
+salt
+    </string>
+    <string name="hotsalsaway">
+        Wash the tomatoes, chili pepper and turkey pepper, cut them, then put them in the cup or mixer.\n
+Add the green coriander, parsley, garlic, tomato sauce, lemon juice, olive oil, water, salt and spice.\n
+Pour all ingredients well until smooth and smooth.\n
+Put the hot sauce in the dishes, and serve it with a cup or mandi.
+    </string>
+    <string name="mandychiinteg">
+        4 cups basmati rice\n
+2 Kilo chicken section\n
+2 large onion chopped onion\n
+2 green turkey pepper\n
+1 large hanging oil\n
+1 small saffron hanging\n
+2 cinnamon sticks\n
+10 chopsticks\n
+10 lobes "Hill"\n
+10 cloves of black pepper\n
+4 Laurel paper\n
+salt\n
+Spices\n
+Water
+    </string>
+    <string name="mandychicway">
+        Wash the chicken well, and cut.\n
+Wash the rice well, then soak in water for half an hour.\n
+Saffron is placed in a quarter cup of water, left aside.\n
+Put the oil in a pot on the fire, add the onion, and stir until it turns brown.\n
+Add chicken pieces, one after the other and stir until golden color is gained, then lift aside.\n
+Bring the chicken back into the bowl and add cinnamon, cloves, lettuce, bay leaves, black pepper, spices, salt and turkey pepper.\n
+Place water until covered, leave on medium heat for 30 minutes until cooked.\n
+Remove the chicken from the soup, stir in an oven tray, and place in the grill to brown.\n
+Take the amount of 6 cups of soup, and put in a pot on the fire until boiling.\n
+Add the rice and saffron mixture, then cover and simmer for 30 minutes until cooked.\n
+Place the rice in the dish, and place the chicken pieces over it.\n
+Serve hot with yogurt sauce.
+    </string>
+    <string name="tandorichickeninteg">
+        1 medium size chicken\n
+A quarter cup of olive oil\n
+One quarter cup tomato sauce\n
+1 small salt suspended\n
+A small hanging quarter of black pepper\n
+A small hanging quarter of soft cinnamon\n
+A quarter of a small suspended ground clove\n
+A quarter of a small suspension is a melted "hill"\n
+One quarter of a small garlic powder\n
+One quarter small onion powder
+    </string>
+    <string name="tandorchickenway">
+        1 Wash the chicken well, divide long halves.\n
+Put the oil in a bowl, add to the sauce, salt, black pepper, cinnamon, cloves, lettuce, garlic powder and onions, mix well.\n
+Let the chicken stir well and leave it for a night.\n
+  Light the electric grill with oil and place the chicken on it.\n
+It fluctuates from time to time until it ripens and is reddened.\n
+They are lifted from the grill, made hot.
+    </string>
+    <string name="shakshokainteg">
+        Sold a kilo of chopped chopped meat\n
+4 eggs\n
+1 onion chopped\n
+1 cup of ground pepper\n
+Chili pepper "optional"\n
+Half a cup of tomato juice\n
+2 outstanding large tomato sauce\n
+salt\n
+black pepper\n
+latency\n
+oil
+    </string>
+    <string name="shaksokaway">
+        Put the oil in a pan on the fire until it is heated.\n
+Add the onion, stir until it wilts and changes its color.\n
+Add hot turkeys and stir until they are soaked.\n
+Add the chopped meat and stir until the color changes.\n
+Add tomato juice and sauce, and stir well.\n
+Season with salt, black pepper and cumin, and stir again.\n
+The mixture is drilled in the number of eggs, and the eggs are placed in it.\n
+Cover, and simmer for 7 minutes until the eggs are cooked.\n
+Put in the dish, and served hot with bread and roast.
+    </string>
+    <string name="romansaladinteg">
+        Spinach leaves\n
+1 cup vita cheese\n
+1 cup Mango clip cubes\n
+2 cup pomegranate love\n
+2 tablespoons lemon juice
+    </string>
+    <string name="romansaladway">
+        Mix the pomegranate, mango, spinach and feta cheese.\n
+Bake lemon juice.\n
+Give it to your family.
+    </string>
+    <string name="flowersaladinteg">
+        1 cup boiled cut flower\n
+1 bunch of watercress\n
+3 tbsp olive oil\n
+1/4 tablespoon salt\n
+2 tbsp vinegar\n
+2 tbsp lemon juice
+    </string>
+    <string name="flowersaladway">
+        Pour broccoli into the oven until fully cooked. In the serving dish, the watercress and then the cauliflower and their hearts together.
+Add salt, lemon juice, vinegar, olive oil and my salad heart and then her feet.
+    </string>
+    <string name="goatsaladinteg">
+        Tablespoon olive oil\n
+Tablespoon balsamic vinegar\n
+Salt spray\n
+A glass of watercress\n
+2 tbsp goat cheese\n
+Toast Asmar\n
+nut\n
+1/2 cup dried cherries\n
+1/2 cup cherry tomatoes\n
+Oregano workshop
+    </string>
+    <string name="goatsaladway">
+        1. In the bowl of olive oil, balsamic vinegar, salt, oregano with stirring.\n
+2. In a bowl of brown toast.\n
+3. Cheese with cheese.\n
+4. On the cheese put the walnut and dried cherries.\n
+5. In the serving bowl and the watercress, and above it put the cherry tomatoes and then more dried cherries.\n
+6. Saski sauce I attended at the beginning.\n
+7. Make toast with cheese.\n
+8. Distribute the remaining nuts.\n
+9. On the face of Origano spray.
+    </string>
+    <string name="ftoshinteg">
+        A cup of lettuce minced\n
+1 cup chopped cherry tomatoes\n
+Chopped cucumber\n
+3 radishes section\n
+1/4 cup thyme leaves\n
+1/2 red onion cut\n
+1/21 tbsp lemon lemon juice\n
+2 tbsp olive oil\n
+1/2 teaspoon salt\n
+Teaspoon thick\n
+Sun Bates
+    </string>
+    <string name="ftoshway">
+        In the dish place all the ingredients.\n
+Mix until fully homogeneous.\n
+Put the salad in the serving bowl.
+    </string>
+    <string name="msasatinteg">
+        1 cup of Capricorn tomatoes\n
+1 cup mozzarella balls\n
+3 tablespoons olive oil\n
+Basil leaves\n
+1/4 tablespoon salt\n
+1/4 teaspoon pepper\n
+2 tablespoons vinegar\n
+Wooden chopsticks
+
+    </string>
+    <string name="msasatway">
+        1 - Bring the leaves of the basil and then put the balls of Caprizi and mozzarella cheese and fix it in wooden sticks.\n
+2. Season with salt, pepper, vinegar and olive oil, then place on the serving plate and feet.
+    </string>
+    <string name="shamndrinteg">
+        beet\n
+Fresh Cheese\n
+Salt spray\n
+Bharar sweet soup\n
+Balsamic vinegar
+    </string>
+    <string name="shamndrway">
+        1. Place the cheese in a bowl.\n
+2. Brush with salt and spices and stir with stirring.\n
+3. Cut the beetroot slices.\n
+4. In the serving dish, place a beetroot and above it a single layer of cheese.\n
+5. Place another layer of beets over the cheese and repeat the above until you have 4 layers of beets and 3 layers of cheese.\n
+6. Repeat the above until you finish each quantity that you have.\n
+7. Plexiglass vinegar to power before serving.
+    </string>
+    <string name="khrshofmilksoupinteg">
+        Artichoke Cup Clip\n
+3 green onion clip\n
+3 cups broth\n
+1 cup broth\n
+1 cup condensed milk\n
+1 cup boiled potato pieces\n
+2 tablespoons butter\n
+1 chopped onion\n
+3 garlic cloves minced\n
+1/4 tablespoon salt\n
+1/4 teaspoon pepper
+    </string>
+    <string name="khrshofmilksoupway">
+        1. Fry onion and garlic in butter until yellowing.\n
+2. Add the green onion, artichoke, potatoes, broth, water and pepper and set them on fire until softened.\n
+3. Mix with a little electric bat and add gradually condensed milk with mixing.\n
+4. Lift it on the fire again and let it heat up and then feet.
+    </string>
+    <string name="khodartmrinteg">
+        1 kilo drew peeled and cut\n
+2 bunch of chopped dill\n
+4 bunch coriander chopped\n
+6 bunch of chopped flour\n
+2 finely chopped onion\n
+Juice 4 lemon seeds\n
+5 beads pass without nuclei\n
+olive oil\n
+salt\n
+Red pepper\n
+Turmeric
+    </string>
+    <string name="khodartmrway">
+        In a saucepan, heat the onions in the olive oil until it melts. Add the turnips until the color changes.\n
+        Add the vegetables and my heart until you are wet. Add salt, turmeric and red pepper.\n
+Add the boiling water to the mixture until the ingredients are submerged and covered with a small amount.\n
+Add the dates and lemon mixture and leave on low heat for about half an hour until the mixture is homogeneous.
+    </string>
+    <string name="ftrcreamyinteg">
+        1/21 tablespoon butter\n
+2 tbsp vegetable oil\n
+A cup of onions\n
+Clove garlic\n
+200 g fresh mushrooms\n
+11 \ 2 tablespoon flour\n
+1/2 teaspoon white condiment\n
+3 cups of meat broth\n
+1/2 teaspoon salt\n
+1/2 cup of cooking cream
+    </string>
+    <string name="ftrcreamyway">
+        1. In a pan on the fire, put the butter and oil and stir with stirring.\n
+2. Add the onions, stirring until soft.\n
+3. Put the garlic and repeat flipping.\n
+4. Add mushrooms, flour, white parsley, stirring after each addition.\n
+5. Place the meat broth.\n
+6. Pour the soup on the fire as it is visible in front of you till the full homogeneity.\n
+7. Season the soup with salt, cook and cook with stirring.\n
+8. Leave the pot on the fire for 10 minutes.
+    </string>
+    <string name="sbn5lsaninteg">
+        150 g spinach\n
+Spaghetti Spaghetti Spaghetti 3/4\n
+Chicken broth cube\n
+3 cups water\n
+1/2 teaspoon cumin\n
+1/2 teaspoon black pepper\n
+2 tbsp acid juice\n
+Onion Seed\n
+2 cloves of garlic\n
+2 tbsp olive oil
+
+    </string>
+    <string name="sbanlsan5way">
+        1. In a pot on the fire Put the oil, then add the chopped onions, garlic, pasta and stir flavored.\n
+2. Add the spinach to them, add the lemon juice, the chicken broth cube, and 3 cups of water with black pepper and cumin.\n
+3. Leave the pot on fire until the pasta is ripe and then serv
+    </string>
+    <string name="ryhansoupsauidainteg">
+        1 and 1/2 kg basil, clip\n
+6 cup chicken broth, equivalent to 6 cube broth dissolved in 6 cups water\n
+2 tablespoons tomato paste\n
+1/2 cup lemon juice lemon\n
+2 tbsp butter\n
+Black pepper sprinkle\n
+Salt to taste
+    </string>
+    <string name="ryhansoupsaudiway">
+        Put the butter in a pan and add to the basil and saute for 5 to 6 minutes.\n
+2. Place the fried basil in a saucepan, add chicken broth and mix well, add tomato paste and lemon juice, and mix\n
+Soup with salt and black pepper.\n
+3 - Put the pot on a strong fire and leave until boiling, then reduce the fire and leave the basil soup to boil for about 15 to 20 minutes
+Until the basil is cooked.
+    </string>
+    <string name="adaspototosoupinteg">
+        3 tablespoons olive oil\n
+2 chopped onion\n
+1 cup red lentils\n
+1 cup wheat\n
+1 chopped potato\n
+1 carrot cut\n
+2 garlic cloves\n
+3 cup chicken broth\n
+1 tablespoon salt\n
+1 tablespoon cumin\n
+1 teaspoon pepper
+
+    </string>
+    <string name="adspototosoupway">
+        1 - Fry onion and garlic in oil until yellowing color.\n
+2. Add the carrots, potatoes, lentils and set them on fire until the ingredients are cooked.\n
+3 - Add the wheat, salt, pepper and cumin and let them on the fire a little.\n
+4 - Mix the electric bat and then raise the fire to heat and then feet.
+    </string>
+    <string name="Shawarmabreadinteg">
+        1/2 kilo flour
+5 tbsp powdered milk
+35 g sugar
+Tablespoon yeast
+Teaspoon baking powder
+1/4 cup vegetable oil
+   Water cup 3/4
+Salt spray
+
+    </string>
+    <string name="shawrmabreadway">
+        1. Mix all ingredients together - except flour - well until smooth.\n
+2. Add the flour and stir them until you have a suitable dough.\n
+3. Leave the dough half an hour to rest.\n
+4. Cut the dough and spit it out as shown in the video.\n
+5. Lift the dough on the fire until it blinks from both sides.
+    </string>
+    <string name="KuftaHalabiinteg">
+        Kilo and a half minced meat\n
+50 g pine\n
+125 g onions\n
+parsley\n
+3 pieces of pepper colors\n
+25 g pepper\n
+25 g salt\n
+25 g Bharat\n
+50 g olive oil
+    </string>
+    <string name="kuftahalabiway">
+        1 - Peel onion and wash parsley and pepper colors and cut them.\n
+2. Bake minced meat and toss it again with vegetables and add salt, spices and pepper.\n
+3 - Shape the flesh fingers and add pine when forming.\n
+4 - Add a Chinese oil and put the fingers of kofta.\n
+5. Place in oven at 180 ° C until cooked or cooked in skewers as desired.\n
+6. Place it on the serving plate.
+    </string>
+    <string name="perfectmkdosinteg">
+        Kilo and a half eggplant small size\n
+Kilo Flaville minced minced beef\n
+100 g chopped nuts\n
+3 tsp minced garlic\n
+6 teaspoon salt\n
+Quantity of olive oil
+    </string>
+    <string name="perfectmkdosway">
+        Wash the eggplant and cut off the leg, and raise it in a large amount of water.\n
+Place a lid smaller than the same pot over the eggplant so that it does not float.\n
+Leave for 15 minutes until it wilts.\n
+Remove it from the water and place it in the iced water, then completely clean it from the water.\n
+Sprinkle the eggplant with salt and make in each unit a longitudinal section with the knife, put salt in it as well.\n
+Place the eggplant in a strainer and feed for 3 hours.\n
+Mix finely chopped garlic with walnuts, walnuts and a teaspoon of salt, and stir well.\n
+Stuff eggplant with about 1 tablespoon.\n
+Place the stuffed eggplant in the jars (cans or packagings), then fill the oil with the oil and leave it for two or three days.\n
+Feet with different dishes.
+    </string>
+    <string name="Burnfingerinteg">
+        Kilo lentils\n
+400 g pasta\n
+2 tablespoons minced garlic\n
+Half a cup of pomegranate molasses\n
+One quarter cup of sour juice\n
+2 tablespoons salt\n
+5 tablespoons of starch mixed with a quarter cup of water\n\n
+Ornamental components:
+5 cups vegetable oil\n
+Three loaves of Arabic bread\n
+3 pieces of fried onions\n
+A cup of flour\n
+Bouquet of Coriander\n
+Tablespoon minced garlic\n
+Two tablespoons of olive oil
+    </string>
+    <string name="burnfingerway">
+        1. Cook the lentils until they are cooked for 30 minutes\n
+.
+2. Add the pasta to the lentils before it is cooked in 8 minutes\n
+.
+3. When the pasta is cooked, add chopped garlic, pomegranate syrup, sour juice and salt\n
+.
+4. Mix the starch with water and add to the lentil mixture until it becomes a cohesive mixture\n
+.
+Leave the mixture for 1 hour to cool down and then refrigerate for 3 hours\n
+.
+6. Heat the vegetable oil. In the meantime, cut the Arab bread into medium sized squares\n
+.
+7. Fry the bread with oil until it turns golden and set it aside\n
+.
+8. Cut the onions into the sides and add flour to the flour, and then sauté the onion with the oil until it becomes golden.\n
+.
+10. Fry the coriander and wash with water\n
+.
+11. In a small frying pan, add the olive oil with the chopped coriander and garlic and the heart until the coriander has withered\n
+.
+
+12. To decorate his finger, pour the mixture into a deep tray\n
+.
+13. Zinni burn his finger by placing the fried bread on the face, then add the onion on top of it, then coriander and garlic
+.
+    </string>
+    <string name="mainchickenshawrmainteg">
+        Kilo and a half chicken, sliced thin\n
+2 tbsp lemon juice\n
+A teaspoon of orange skin\n
+A teaspoon of lemon flesh\n
+Teaspoon vinegar\n
+Teaspoon salt\n
+2 teaspoons black pepper\n
+Spoon chicken spice\n
+Half teaspoon turmeric\n
+Half teaspoon ground cloves\n
+Half a teaspoon of crushed hill\n
+Half teaspoon paprika\n
+Half teaspoon chutney\n
+Half teaspoon grated ginger\n
+2 tbsp vegetable oil\n
+3 onion slices thin slices\n
+3 tomatoes
+    </string>
+    <string name="mainchickenshawrmamainway">
+        Place chicken slices in a bowl with all spices, salt, pepper, lemon juice, vinegar, orange and lemon skin.\n
+Take a good heart and cover the bowl and let them refrigerate for 4 hours.\n
+Remove the tomato and leave it aside.\n
+Put the oil in a large skillet over medium heat, add the chicken mixture on top of it and my heart until the color of the chicken changes.\n
+Add onions and my heart for 5 minutes.\n
+Add the Lord of the tomato and my heart, and leave it until the chicken is cooked.\n
+You can add red pepper, pickled cucumbers or French fries to the shawarma.\n
+They can also be served in sandwiches or in dishes alongside green salad and sesame salad.
+    </string>
+    <string name="egablbnainteg">
+        4 tbsp brick\n
+6 eggs\n
+1/2 teaspoon baking powder (Baiking Powder)\n
+Spray of spices\n
+Salt spray\n
+Tablespoon vegetable oil
+    </string>
+    <string name="egablbnaway">
+        1. In a deep dish place the eggs.\n
+2. Add salt, berry and baking powder.\n
+3. Pour all the ingredients together with the handbrake well until the consistency is complete.\n
+4. Put a pan over the fire and heat the vegetable oil.\n
+5. Add the egg mixture and, after it is cooked from the bottom, turn it over to ripen on the other side.\n
+6. Lift the eggs after maturity and place it on the dish.\n
+7. Remove the cheese and then stir in the form of cylindrical sandwiches and sliced slices.
+
+    </string>
+    <string name="seneadgaginteg">
+        Chicken chopped 8 parts\n
+5 potatoes cut into medium sized cubes\n
+1/2 cup olive oil\n
+Cinnamon sticks\n
+Spices\n
+salt\n
+black pepper\n
+4 Laura Paper\n
+1 tablespoon ground coriander crushed\n
+2 tbsp garlic slices
+    </string>
+    <string name="seneadgagway">
+        In a deep pot on the fire, roast the chicken with water, laurel,\n
+        cinnamon and a small amount of salt
+In the process, stir the potatoes in hot oil and then remove them from the oil\n
+After boiling the chicken, lift it off the fire and leave it aside
+In another deep bowl, broil the chicken with a portion of garlic, coriander, pepper and spices,\n
+        and each amount of olive oil. Mix well to combine the chicken with the sauce.\n
+Oven fever
+Bring a tray and tray with aluminum foil
+Fry the fried potatoes and sprinkle with the remaining amount of salt, garlic, pepper, coriander \n
+        and spices
+Chinese chicken cutters and Chinese aluminum foil
+Pour the oven into the oven until it is fully ripe or for about one hour
+    </string>
+    <string name="taboulakenonasaladinteg">
+        Parsley Bouquet\n
+1 tomato\n
+1/2 onion\n
+1/2 cup mint\n
+1/4 cup kenoa\n
+Tablespoon lemon juice\n
+Tablespoon olive oil\n
+Black spices\n
+Salt spray
+    </string>
+    <string name="taboulakenonasaldway">
+        1. In a dish, place all ingredients, except lettuce.\n
+2. Flipping well\n
+3. In the serving dish, place the lettuce\n
+4. Put the salad on the lettuce and be ready to serve.
+    </string>
+    <string name="tmatmbzetinteg">
+        Tablespoon apple cider vinegar\n
+Tablespoon olive oil\n
+1/2 teaspoon thick\n
+1/2 teaspoon garlic powder\n
+Salt spray\n
+Pack of watercress\n
+1 cup chopped cherry tomatoes\n
+1/4 cup black olives section
+    </string>
+    <string name="tmatmzetway">
+        1. In a dish, place apple cider vinegar, olive oil, garlic, garlic powder and salt with stirring.\n
+2. In the serving bowl, place the watercress.\n
+3. Give the cherry tomatoes, then the olives.\n
+4. On the face and the mix of the mixture you attended.
+    </string>
+    <string name="kratelbnanteg">
+        100 g of goat cheese\n
+2 tbsp thyme\n
+2 tablespoons thick\n
+2 tbsp lemon lemon juice\n
+One teaspoon mustard\n
+1 teaspoon olive oil\n
+French lettuce\n
+1/4 cup pomley\n
+Cherry tomatoes
+    </string>
+    <string name="kratelbnaway">
+        1. Shape the brick shaped balls.\n
+2. Repeat it with every quantity you have.\n
+3. Bake half the balls with the thyme, and the second half with the sumac.\n
+4. In a dish place olive oil, lemon juice, mustard, mixed with.\n
+5. In the serving dish and lettuce.\n
+6. Place the white cheese balls with the pomelo and cherry tomatoes.\n
+7. Mix them with lemon juice and olive oil and the salad is ready to serve.
+    </string>
+    <string name="foulb2donsinteg">
+        1 packet of beans\n
+1 piece of chopped tomatoes\n
+1 small onion, chopped\n
+3 tbsp chopped parsley\n
+4 tbsp olive oil\n
+salt\n
+4 tbsp lemon juice
+    </string>
+    <string name="foulb2donsway">
+        Mix the ingredients and olive oil on the face.
+    </string>
+    <string name="btatazbadyinteg">
+        A potato\n
+A tomato\n
+Clove garlic\n
+Vegetable oil for frying\n
+1/2 onion\n
+1 cup yogurt\n
+1/2 teaspoon dry mint\n
+2 tablespoons parsley\n
+Tablespoon tomato paste\n
+Black spices\n
+Salt, to taste
+    </string>
+    <string name="btatazbadyway">
+        1. In a pan on the fire, heat the vegetable oil.\n
+2. Fry the potatoes with oil.\n
+3. In another pan, heat new oil.\n
+4. Put the onions and tomatoes and stir until they melt.\n
+5. Add the tomato paste, stirring.\n
+6. Pour them with salt and black pepper.\n
+7. In a bowl of yogurt, add garlic, mint and salt and stir.\n
+8. Place the potatoes in the serving bowl.\n
+9. Fry them a mixture of tomatoes and onions.\n
+10. On the face put a mixture of yogurt.\n
+11. Garnish face with parsley and then feet.
+    </string>
+    <string name="shamndrlbnasaladinteg">
+        500 g shelled peeled and cut\n
+Salt spray\n
+1/2 cup skimmed brick\n
+3 teaspoons low fat mayonnaise\n
+Clove garlic\n
+3 tablespoons nut
+    </string>
+    <string name="shamndrlbnsaladaway">
+        1. In a dish, place all the ingredients in the clear order of the video.\n
+2. Make stirring until full homogeneity.\n
+3. Pick up the power for the serving dish.
+    </string>
+    <string name="btatalbnasaladinteg">
+        A boiled potato\n
+2 tablespoons low-fat brick\n
+2 tbsp hazelnut\n
+Oregano workshop
+    </string>
+    <string name="btatalbnasaladway">
+        1. Shape boiled sweet potatoes as it is clearly in front of you and put the dish.\n
+2. On the face Put the low-fat brick as video.\n
+3. Put the oregano and hazelnuts on the face and be ready to serve.
     </string>
 </resources>

@@ -18,13 +18,13 @@ import com.example.youssef.ar_foods.egyptadapter.adapteraklat;
 
 import java.util.ArrayList;
 
-public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> {
+public class favoadapter extends RecyclerView.Adapter<favoadapter.viewholder> {
 
     Context context;
-    ArrayList<foodtypes> listtypes,main,side;
+    ArrayList<String> listtypes,main,side;
     Activity activity;
 
-    public typeadapter2(Context con, ArrayList<foodtypes> mytype)
+    public favoadapter(Context con, ArrayList<String> mytype)
     {
         this.context=con;
         this.listtypes=mytype;
@@ -36,22 +36,17 @@ public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> 
     @NonNull
     @Override
     public viewholder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View myview=LayoutInflater.from(context.getApplicationContext()).inflate(R.layout.typerow,parent,false);
+        View myview=LayoutInflater.from(context.getApplicationContext()).inflate(R.layout.favourow,parent,false);
         return new viewholder(myview);
     }
 
     @Override
     public void onBindViewHolder(@NonNull final viewholder holder, final int position) {
 
+        holder.texttype.setText(listtypes.get(position));
+        holder.favourit.setVisibility(View.GONE);
 
-        holder.texttype.setText(listtypes.get(position).getTypename());
-        holder.favo.setVisibility(View.GONE);
 
-        GlideApp
-                .with(context)
-                .load(listtypes.get(position).getImageView())
-                .centerCrop()
-                .into(holder.imagetype);
         holder.mycard.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -63,7 +58,7 @@ public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> 
                 int pos=holder.getAdapterPosition();
                 SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(context);
                 SharedPreferences.Editor editor = preferences.edit();
-                editor.putInt("position2",pos);
+                editor.putInt("position",pos);
                 editor.apply();
 
 
@@ -71,35 +66,27 @@ public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> 
                 {
                     case 0:{
                         Intent myintent=new Intent(context,foodsnames.class);
-                        myintent.putExtra("content",31);
+                        myintent.putExtra("content",11);
                         context.startActivity(myintent);
                         break;
                     }
 
                     case 1:{
                         Intent mintent=new Intent(context,foodsnames.class);
-                        mintent.putExtra("content",32);
+                        mintent.putExtra("content",12);
                         context.startActivity(mintent);
-                        context.startActivity(mintent);
-
                         break;
-
                     }
                     case 2:{
                         Intent mintent=new Intent(context,foodsnames.class);
-                        mintent.putExtra("content",32);
+                        mintent.putExtra("content",13);
                         context.startActivity(mintent);
-                        context.startActivity(mintent);
-
                         break;
-
                     }
                     case 3:{
                         Intent mintent=new Intent(context,foodsnames.class);
-                        mintent.putExtra("content",32);
+                        mintent.putExtra("content",14);
                         context.startActivity(mintent);
-                        context.startActivity(mintent);
-
                         break;
 
                     }
@@ -118,16 +105,16 @@ public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> 
 
         ImageView imagetype;
         TextView texttype;
-        ImageView favo;
         CardView mycard;
+        ImageView favourit;
 
         public viewholder(View itemView) {
             super(itemView);
 
             imagetype=itemView.findViewById(R.id.imgty);
-            texttype=itemView.findViewById(R.id.textty);
+            texttype=itemView.findViewById(R.id.textfavorow);
             mycard=itemView.findViewById(R.id.cardtype);
-            favo=itemView.findViewById(R.id.favourt);
+            favourit=itemView.findViewById(R.id.favourt);
 
         }
     }

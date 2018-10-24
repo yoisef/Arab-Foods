@@ -78,14 +78,46 @@ public class adapteraklat6 extends RecyclerView.Adapter<adapteraklat6.viewholder
                 {
                     case 0:{
                         Intent intent=new Intent(context,fooddetail.class);
-                        context.startActivity(new Intent(context,foodsnames.class));
+                        intent.putExtra("content",521);
+                        context.startActivity(intent);
                         break;
                     }
 
                     case 1:{
-                        context.startActivity(new Intent(context,foodsnames.class));
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",522);
+                        context.startActivity(intent);
                         break;
-
+                    }
+                    case 2:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",523);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 3:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",524);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 4:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",525);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 5:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",526);
+                        context.startActivity(intent);
+                        break;
+                    }
+                    case 6:{
+                        Intent intent=new Intent(context,fooddetail.class);
+                        intent.putExtra("content",527);
+                        context.startActivity(intent);
+                        break;
                     }
                 }
 
