@@ -80,15 +80,13 @@ public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> 
                         Intent mintent=new Intent(context,foodsnames.class);
                         mintent.putExtra("content",32);
                         context.startActivity(mintent);
-                        context.startActivity(mintent);
 
                         break;
 
                     }
                     case 2:{
                         Intent mintent=new Intent(context,foodsnames.class);
-                        mintent.putExtra("content",32);
-                        context.startActivity(mintent);
+                        mintent.putExtra("content",33);
                         context.startActivity(mintent);
 
                         break;
@@ -96,8 +94,7 @@ public class typeadapter2 extends RecyclerView.Adapter<typeadapter2.viewholder> 
                     }
                     case 3:{
                         Intent mintent=new Intent(context,foodsnames.class);
-                        mintent.putExtra("content",32);
-                        context.startActivity(mintent);
+                        mintent.putExtra("content",34);
                         context.startActivity(mintent);
 
                         break;

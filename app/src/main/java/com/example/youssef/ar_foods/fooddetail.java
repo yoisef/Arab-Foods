@@ -171,6 +171,11 @@ public class fooddetail extends AppCompatActivity {
                 ingredients.setText(getResources().getString(R.string.GarlicSoupinteg));
                 break;
             }
+            case 36:{
+                way.setText(getResources().getString(R.string.essixway));
+                ingredients.setText(getResources().getString(R.string.essixinteg));
+                break;
+            }
             case 41:{
                 way.setText(getResources().getString(R.string.basbosaeshtaway));
                 ingredients.setText(getResources().getString(R.string.basbousaeshtainteg));
@@ -184,6 +189,11 @@ public class fooddetail extends AppCompatActivity {
             case 43:{
                 way.setText(getResources().getString(R.string.blozaway));
                 ingredients.setText(getResources().getString(R.string.blozamhlbeainteg));
+                break;
+            }
+            case 44:{
+                way.setText(getResources().getString(R.string.edfourway));
+                ingredients.setText(getResources().getString(R.string.edfourinteg));
                 break;
             }
             case 911:{
@@ -214,6 +224,41 @@ public class fooddetail extends AppCompatActivity {
             case 916:{
                 way.setText(getResources().getString(R.string.shaksokaway));
                 ingredients.setText(getResources().getString(R.string.shakshokainteg));
+                break;
+            }
+            case 941:{
+                way.setText(getResources().getString(R.string.gdoneway));
+                ingredients.setText(getResources().getString(R.string.gdoneinte));
+                break;
+            }
+            case 942:{
+                way.setText(getResources().getString(R.string.gdtwoway));
+                ingredients.setText(getResources().getString(R.string.gdtwointeg));
+                break;
+            }
+            case 943:{
+                way.setText(getResources().getString(R.string.gdthreeway));
+                ingredients.setText(getResources().getString(R.string.gdthreeinteg));
+                break;
+            }
+            case 944:{
+                way.setText(getResources().getString(R.string.gdfourway));
+                ingredients.setText(getResources().getString(R.string.gdfourinteg));
+                break;
+            }
+            case 945:{
+                way.setText(getResources().getString(R.string.gdfiveway));
+                ingredients.setText(getResources().getString(R.string.gdfiveinteg));
+                break;
+            }
+            case 946:{
+                way.setText(getResources().getString(R.string.gdsixway));
+                ingredients.setText(getResources().getString(R.string.gdsixinteg));
+                break;
+            }
+            case 947:{
+                way.setText(getResources().getString(R.string.gdsevenway));
+                ingredients.setText(getResources().getString(R.string.gdseveninteg));
                 break;
             }
             case 101:{
@@ -356,6 +401,77 @@ public class fooddetail extends AppCompatActivity {
                 ingredients.setText(getResources().getString(R.string.btatalbnasaladinteg));
                 break;
             }
+            case 531:{
+                way.setText(getResources().getString(R.string.ssoneway));
+                ingredients.setText(getResources().getString(R.string.ssoneinteg));
+                break;
+            }
+            case 532:{
+                way.setText(getResources().getString(R.string.sstwoway));
+                ingredients.setText(getResources().getString(R.string.sstwointeg));
+                break;
+            }
+            case 533:{
+                way.setText(getResources().getString(R.string.ssthreeway));
+                ingredients.setText(getResources().getString(R.string.ssthreeinteg));
+                break;
+            }
+            case 534:{
+                way.setText(getResources().getString(R.string.ssfourway));
+                ingredients.setText(getResources().getString(R.string.ssfourinteg));
+                break;
+            }
+            case 535:{
+                way.setText(getResources().getString(R.string.ssfiveway));
+                ingredients.setText(getResources().getString(R.string.ssfiveinteg));
+                break;
+            }
+            case 536:{
+                way.setText(getResources().getString(R.string.sssixway));
+                ingredients.setText(getResources().getString(R.string.sssixinteg));
+                break;
+            }
+            case 537:{
+                way.setText(getResources().getString(R.string.sssevenway));
+                ingredients.setText(getResources().getString(R.string.ssseveninteg));
+                break;
+            }
+            case 541:{
+                way.setText(getResources().getString(R.string.sdoneway));
+                ingredients.setText(getResources().getString(R.string.sdoneinteg));
+                break;
+            }
+            case 542:{
+                way.setText(getResources().getString(R.string.sdtwoway));
+                ingredients.setText(getResources().getString(R.string.sdtwointeg));
+                break;
+            }
+            case 543:{
+                way.setText(getResources().getString(R.string.sdthreeway));
+                ingredients.setText(getResources().getString(R.string.sdthreeinteg));
+                break;
+            }
+            case 544:{
+                way.setText(getResources().getString(R.string.sdfourway));
+                ingredients.setText(getResources().getString(R.string.sdfourinteg));
+                break;
+            }
+            case 545:{
+                way.setText(getResources().getString(R.string.sdfiveway));
+                ingredients.setText(getResources().getString(R.string.sdfiveinteg));
+                break;
+            }
+            case 546:{
+                way.setText(getResources().getString(R.string.sdsixway));
+                ingredients.setText(getResources().getString(R.string.sdsixinteg));
+                break;
+            }
+            case 547:{
+                way.setText(getResources().getString(R.string.sdsevenway));
+                ingredients.setText(getResources().getString(R.string.sdseveninteg));
+                break;
+            }
+
 
 
 

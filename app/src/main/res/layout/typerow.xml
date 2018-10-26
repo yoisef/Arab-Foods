@@ -44,11 +44,11 @@
                 android:gravity="center"
                 android:layout_height="wrap_content" />
             <ImageView
-                android:layout_width="50dp"
+                android:layout_width="10dp"
                 android:id="@+id/favourt"
                 android:layout_margin="5dp"
                 android:src="@drawable/favogray"
-                android:layout_height="50dp" />
+                android:layout_height="10dp" />
 
 
         </RelativeLayout>

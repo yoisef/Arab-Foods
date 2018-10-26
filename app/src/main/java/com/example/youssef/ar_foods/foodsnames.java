@@ -14,6 +14,7 @@ import com.example.youssef.ar_foods.egyptadapter.adapteraklat3;
 import com.example.youssef.ar_foods.egyptadapter.adapteraklat4;
 import com.example.youssef.ar_foods.gulfadapters.adapteraklat10;
 import com.example.youssef.ar_foods.gulfadapters.adapteraklat11;
+import com.example.youssef.ar_foods.gulfadapters.adapteraklat12;
 import com.example.youssef.ar_foods.gulfadapters.adapteraklat9;
 import com.example.youssef.ar_foods.syriaadapter.adapteraklat5;
 import com.example.youssef.ar_foods.syriaadapter.adapteraklat6;
@@ -96,17 +97,11 @@ public class foodsnames extends AppCompatActivity {
         soupp.add(new foodtypes(R.drawable.egyptf,"  Soup of a bird with vegetables"));
         soupp.add(new foodtypes(R.drawable.egyptf," garlic soup"));
         soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
-        soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
-        soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
-        soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
-        soupp.add(new foodtypes(R.drawable.egyptf," rice soup works with oatmeal and chicken strips"));
 
         entreess.add(new foodtypes(R.drawable.egyptf,"Basbousa stuffed with cream"));
         entreess.add(new foodtypes(R.drawable.egyptf,"Rice with milk"));
         entreess.add(new foodtypes(R.drawable.egyptf,"Bullying with puddles"));
         entreess.add(new foodtypes(R.drawable.egyptf,"Basbousa Orio"));
-        entreess.add(new foodtypes(R.drawable.egyptf,"Spice is stuffed with cream"));
-        entreess.add(new foodtypes(R.drawable.egyptf,"Spice is stuffed with cream"));
 
 
 
@@ -123,16 +118,23 @@ public class foodsnames extends AppCompatActivity {
         saladd1.add(new foodtypes(R.drawable.syri,"Fatoshsalad"));
         saladd1.add(new foodtypes(R.drawable.syri,"Salad of Capricorn with Almocarilla"));
         saladd1.add(new foodtypes(R.drawable.syri,"Beet with fresh cheese with only two ingredients"));
-        saladd1.add(new foodtypes(R.drawable.syri,"Pomegranate salad with spinach health"));
-        saladd1.add(new foodtypes(R.drawable.syri,"Pomegranate salad with spinach health"));
-        saladd1.add(new foodtypes(R.drawable.syri,"Pomegranate salad with spinach health"));
+
 
         soupp1.add(new foodtypes(R.drawable.syri,"Artichoke soup with milk and onions"));
         soupp1.add(new foodtypes(R.drawable.syri,"Gulf soup with vegetables and dates"));
         soupp1.add(new foodtypes(R.drawable.syri,"Creamy mushroom soup"));
         soupp1.add(new foodtypes(R.drawable.syri,"Spinach soup with Spaghetti Spaghetti"));
         soupp1.add(new foodtypes(R.drawable.syri,"Al Rayhan Soup"));
-        soupp1.add(new foodtypes(R.drawable.syri,"Red lentil soup with wheat and potatoes"));
+
+        entreess1.add(new foodtypes(R.drawable.syri,"Dates rolls "));
+        entreess1.add(new foodtypes(R.drawable.syri,"Chocolate tablets "));
+        entreess1.add(new foodtypes(R.drawable.syri,"Swords "));
+        entreess1.add(new foodtypes(R.drawable.syri,"Mini Tart with cashew and apricot jam "));
+        entreess1.add(new foodtypes(R.drawable.syri,"Minced cake with dried fruits "));
+        entreess1.add(new foodtypes(R.drawable.syri,"Cookie Butter Cookies"));
+        entreess1.add(new foodtypes(R.drawable.syri,"Mini Tart with Strawberry Jam "));
+
+
 
         main2.add(new foodtypes(R.drawable.gulffood,"Shawrma breaad"));
         main2.add(new foodtypes(R.drawable.gulffood,"Kufti Halabi"));
@@ -149,6 +151,25 @@ public class foodsnames extends AppCompatActivity {
         saladd2.add(new foodtypes(R.drawable.gulffood,"Potato salad with yogurt and tomatoes"));
         saladd2.add(new foodtypes(R.drawable.gulffood,"Beetroot salad"));
         saladd2.add(new foodtypes(R.drawable.gulffood,"Potato salad with cheese"));
+
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Red beets with garlic and chickpeas"));
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Cauliflower soup with crushed almonds"));
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Potato soup and carrot cream"));
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Milk Soup"));
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Soup of the bird with mushrooms"));
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Pasta and vegetable soup"));
+        soupp2.add(new foodtypes(R.drawable.gulffood,"Cold Tibola Soup"));
+
+        entreess2.add(new foodtypes(R.drawable.entrees,"Mango baloza"));
+        entreess2.add(new foodtypes(R.drawable.entrees,"Syrian Beatifour"));
+        entreess2.add(new foodtypes(R.drawable.entrees,"Hala Al-Athamleh"));
+        entreess2.add(new foodtypes(R.drawable.entrees,"Delicious almond biscuits"));
+        entreess2.add(new foodtypes(R.drawable.entrees,"Baloza Balbashen grapefruit"));
+        entreess2.add(new foodtypes(R.drawable.entrees,"Potato Cake with Cinnamon"));
+        entreess2.add(new foodtypes(R.drawable.entrees,"Syrian rice"));
+
+
+
 
 
 
@@ -195,6 +216,11 @@ public class foodsnames extends AppCompatActivity {
                 break;
 
             }
+            case 24:{
+                foodtypesre.setAdapter(new adapteraklat12(this,entreess1));
+                break;
+
+            }
             case 31:{
                 foodtypesre.setAdapter(new adapteraklat5(this,main2));
                 break;
@@ -206,12 +232,12 @@ public class foodsnames extends AppCompatActivity {
 
             }
             case 33:{
-                foodtypesre.setAdapter(new adapteraklat7(this,soupp1));
+                foodtypesre.setAdapter(new adapteraklat7(this,soupp2));
                 break;
 
             }
             case 34:{
-                foodtypesre.setAdapter(new adapteraklat8(this,soupp1));
+                foodtypesre.setAdapter(new adapteraklat8(this,entreess2));
                 break;
 
             }
